@@ -4,5 +4,7 @@ def print_business_card(person)
   puts "Contact: #{person[3]}"
 end
 
+person = bob
+
 bob = ["Bob", 17, "Chef", 367-5309]
 stacy = ["Stacy", 14, "Lady", 666-9999]
